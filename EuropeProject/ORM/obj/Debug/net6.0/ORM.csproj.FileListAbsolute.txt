@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\bin\Debug\net6.0\ORM.deps.json
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\bin\Debug\net6.0\ORM.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\bin\Debug\net6.0\ORM.pdb
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\refint\ORM.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ORM.pdb
+C:\Users\skavlashvili\Desktop\EuropeProject\ORM\obj\Debug\net6.0\ref\ORM.dll

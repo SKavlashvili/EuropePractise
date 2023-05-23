@@ -1,0 +1,41 @@
+{
+  "Items": [
+    {
+      "GiftName": "sachuqari2",
+      "ID": 1
+    },
+    {
+      "GiftName": "sachuqari3",
+      "ID": 2
+    },
+    {
+      "GiftName": "sachuqari4",
+      "ID": 3
+    },
+    {
+      "GiftName": "sachuqari5",
+      "ID": 4
+    },
+    {
+      "GiftName": "sachuqari6",
+      "ID": 5
+    },
+    {
+      "GiftName": "sachuqari7",
+      "ID": 6
+    },
+    {
+      "GiftName": "sachuqari8",
+      "ID": 7
+    },
+    {
+      "GiftName": "sachuqari9",
+      "ID": 8
+    },
+    {
+      "GiftName": "sachuqari10",
+      "ID": 9
+    }
+  ],
+  "IDCounter": 10
+}
