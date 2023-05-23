@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Configurer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Configurer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Configurer.dll": {}
+        }
+      },
       "ORM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Configurer/1.0.0": {
+      "type": "project",
+      "path": "../Configurer/Configurer.csproj",
+      "msbuildProject": "../Configurer/Configurer.csproj"
+    },
     "ORM/1.0.0": {
       "type": "project",
       "path": "../ORM/ORM.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Configurer >= 1.0.0",
       "ORM >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\skavlashvili\\Desktop\\EuropeProject\\Configurer\\Configurer.csproj": {
+              "projectPath": "C:\\Users\\skavlashvili\\Desktop\\EuropeProject\\Configurer\\Configurer.csproj"
+            },
             "C:\\Users\\skavlashvili\\Desktop\\EuropeProject\\ORM\\ORM.csproj": {
               "projectPath": "C:\\Users\\skavlashvili\\Desktop\\EuropeProject\\ORM\\ORM.csproj"
             }

@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v6.0": {
       "MainProject/1.0.0": {
         "dependencies": {
+          "Configurer": "1.0.0",
           "ORM": "1.0.0"
         },
         "runtime": {
           "MainProject.dll": {}
+        }
+      },
+      "Configurer/1.0.0": {
+        "runtime": {
+          "Configurer.dll": {}
         }
       },
       "ORM/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "MainProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Configurer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

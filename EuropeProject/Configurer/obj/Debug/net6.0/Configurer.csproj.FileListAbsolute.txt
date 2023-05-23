@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\bin\Debug\net6.0\Configurer.deps.json
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\bin\Debug\net6.0\Configurer.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\bin\Debug\net6.0\Configurer.pdb
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\refint\Configurer.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\Configurer.pdb
+C:\Users\skavlashvili\Desktop\EuropeProject\Configurer\obj\Debug\net6.0\ref\Configurer.dll

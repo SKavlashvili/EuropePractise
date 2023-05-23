@@ -1,5 +1,6 @@
 ﻿using MainProject.Core;
 using MainProject.Entities;
+using Configurer;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace MainProject;
@@ -21,7 +22,8 @@ public class Program
     }
     public static void Main()
     {
-        App Application = new App(@"C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\Tables\");
+        IConfiguration config = Configurator.GetConfiguration();
+        App Application = new App(config.GetConnectionString());
         Application.Register("test5", "TestParoli");
         Application.Login("test5", "TestParoli");
     }

@@ -16,3 +16,5 @@ C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\obj\Debug\net6.0\refint\
 C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\obj\Debug\net6.0\MainProject.pdb
 C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\obj\Debug\net6.0\MainProject.genruntimeconfig.cache
 C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\obj\Debug\net6.0\ref\MainProject.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\bin\Debug\net6.0\Configurer.dll
+C:\Users\skavlashvili\Desktop\EuropeProject\MainProject\bin\Debug\net6.0\Configurer.pdb

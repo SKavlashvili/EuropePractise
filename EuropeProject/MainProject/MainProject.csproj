@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Configurer\Configurer.csproj" />
     <ProjectReference Include="..\ORM\ORM.csproj" />
   </ItemGroup>
 
